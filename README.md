@@ -1,1 +1,1 @@
-## End to End ML Project: Predict student mental health
+## End to End ML Project: Predict Heart Disease

@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name = 'studentMentalHealth',
+    name = 'heart-disease',
     version='0.0.1',
     author='yashvi',
     author_email='yashvib1631@gmail.com',
